@@ -1,0 +1,23 @@
+{
+  "name": "viewer",
+  "version": "1.0.0",
+  "description": "View your daily tasks web app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddgob/Viewer.git"
+  },
+  "author": "Daniel B.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddgob/Viewer/issues"
+  },
+  "homepage": "https://github.com/ddgob/Viewer#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "vue": "^3.4.37"
+  }
+}
